@@ -3,11 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Campus Bites - Home</title>
+    <title>Campus Bites - Feedback</title>
     <link rel="stylesheet" href="../styles/style.css">
 </head>
-<body>
-    <h1>Campus Bites feedback</h1>
-    <p>Welcome to Campus Bites feedback.</p>
+<body class="feedback-page">
+    <header class="feedback-header">
+        <h1>Campus Bites</h1>
+        <nav aria-label="Main navigation">
+            <ul class="feedback-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="deals.html">Deals</a></li>
+                <li><a href="order.html">Order</a></li>
+                <li><a href="feedback.html" aria-current="page">Feedback</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="feedback-content">
+        <section class="feedback-card" aria-labelledby="contact-heading">
+            <h2 id="contact-heading">Cafeteria Contact</h2>
+            <address>
+                <strong>Campus Bites Cafeteria</strong><br>
+                University of Central Punjab campus
+            </address>
+            <p>Visit the cafeteria counter on campus for in-person assistance. A phone number and email address were not included in the assignment details.</p>
+        </section>
+
+        <section class="feedback-card" aria-labelledby="feedback-heading">
+            <h2 id="feedback-heading">Share Your Feedback</h2>
+            <p class="feedback-demo-note" id="feedback-demo-note">Static demonstration only. This form does not send or store feedback.</p>
+            <form class="feedback-form" aria-describedby="feedback-demo-note">
+                <label for="feedback-name">Name</label>
+                <input id="feedback-name" name="name" type="text" autocomplete="name">
+
+                <label for="feedback-email">Email</label>
+                <input id="feedback-email" name="email" type="email" autocomplete="email">
+
+                <label for="feedback-message">Message</label>
+                <textarea id="feedback-message" name="message" rows="6"></textarea>
+
+                <button type="button">Submit Feedback</button>
+            </form>
+        </section>
+    </main>
 </body>
 </html>
