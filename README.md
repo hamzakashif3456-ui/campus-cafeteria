@@ -32,11 +32,11 @@ campus-cafeteria/
 
 | Sr # | Student Name | University Email | GitHub Username | Role | Branch Worked On | Assigned Page |
 | :---: | :--- | :--- | :--- | :---: | :--- | :--- |
-| **1** | *[Team Lead Name]* | *[email@ucp.edu.pk]* | *[username]* | Team Lead | `main`, `develop`, `release/v1.0` | `index.html` (Home) |
-| **2** | *Raveeha Fatima* | *[L1f23bsse0045@ucp.edu.pk]* | *raveehafatima* | Member 1 | `feature/menu-page` | `menu.html` (Menu) |
-| **3** | *[Member 2 Name]* | *[email@ucp.edu.pk]* | *[username]* | Member 2 | `feature/deals-page` | `deals.html` (Deals) |
-| **4** | *[Member 3 Name]* | *[email@ucp.edu.pk]* | *[username]* | Member 3 | `feature/order-page` | `order.html` (Order Guide) |
-| **5** | *[Member 4 Name]* | *[email@ucp.edu.pk]* | *[username]* | Member 4 | `feature/feedback-page` | `feedback.html` (Feedback) |
+| **1** | *Hamza Kashif* | *L1f23bsse0040@ucp.edu.pk* | *hamzakashif3456-ui* | Team Lead | `main`, `develop`, `release/v1.0` | `index.html` (Home) |
+| **2** | *Raveeha Fatima* | *L1f23bsse0045@ucp.edu.pk* | *raveehafatima* | Member 1 | `feature/menu-page` | `menu.html` (Menu) |
+| **3** | *Esha Javed* | *L1f23bsse0264@ucp.edu.pk* | *eshasam786* | Member 2 | `feature/deals-page` | `deals.html` (Deals) |
+| **4** | *Asif Nawaz* | *L1f23bsse0025@ucp.edu.pk* | *Asifnawaz89-lab* | Member 3 | `feature/order-page` | `order.html` (Order Guide) |
+| **5** | *Ali Tahir* | *L1f23bsse0031@ucp.edu.pk* | *alitahir1257-creator* | Member 4 | `feature/feedback-page` | `feedback.html` (Feedback) |
 
 ---
 
